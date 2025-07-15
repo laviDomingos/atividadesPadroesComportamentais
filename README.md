@@ -18,5 +18,5 @@ R: Porque ele permite encapsular cada comportamento em uma classe separada, prom
 
 3. Dê um exemplo real em que Command seja melhor que apenas chamar métodos diretamente.
 
-R: Usar o command em editores de texto  encapsula cada ação em objetos, facilitanto armazenar, deszfazer e refazer comandos.
+R: Usar o command em editores de texto  encapsula cada ação em objetos, facilitanto armazenar, desfazer e refazer comandos.
 
