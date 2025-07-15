@@ -1,4 +1,4 @@
-# Padrões Comportamentais
+# 📊 Padrões Comportamentais
 
 - Observer
 - Strategy
@@ -6,7 +6,7 @@
 
 ---
 
-Perguntas de Checagem
+🔎 Perguntas de Checagem
 
 1. Qual a principal vantagem do padrão Observer em sistemas reativos?
 
